@@ -1,0 +1,13 @@
+div#result div.text {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-weight: 700;
+}
+
+.close_bl {
+    margin-bottom: 20px;
+    font-size: 14px;
+    cursor: pointer;
+    color: #006799;
+    font-weight: 500;
+}

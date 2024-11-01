@@ -1,0 +1,13 @@
+{
+  "name": "www-data/wc-sms-notification",
+  "description": "WC SMS NOTIFICATIONS",
+  "type": "wordpress-plugin",
+  "license": "GPL",
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "classmap": [
+      "includes/"
+    ]
+  }
+}
